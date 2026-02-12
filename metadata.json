@@ -1,0 +1,5 @@
+{
+  "name": "Controle Financeiro",
+  "description": "Gerenciador financeiro com rateio 2/3 para Bryanne e 1/3 para Trick, gestão de bancos e dívidas fixas.",
+  "requestFramePermissions": []
+}
